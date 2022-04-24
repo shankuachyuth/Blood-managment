@@ -4,7 +4,7 @@ I have  used Html, Css  and AZURE BOT service .
 and using static web app service I  hosted the webpage .
 
 My Project Url(Blood-managment):-
-
+https://gray-ocean-0ae018e10.1.azurestaticapps.net/
 
 
 Below is the  image of my webpage( home  page)
